@@ -1,2 +1,4 @@
-var age = 27;
+// Changed age
+
+var age = 28;
 console.log(age);
